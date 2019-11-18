@@ -1,0 +1,19 @@
+# VB用の不要ファイルリスト
+# VB
+*.dll
+*.exe
+*.suo
+*.pdb
+
+# Eclipse
+# .project
+# .classpath
+# .settings
+
+# 特定のフォルダ
+# bin/
+# obj/
+# My Project/
+
+# 特定のファイル
+test.md
