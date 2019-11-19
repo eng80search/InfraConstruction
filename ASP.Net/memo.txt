@@ -1,1 +1,2 @@
 http://article.higlabo.com/ja/asp_net_life_cycle.html
+https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ff647787(v=pandp.10)?redirectedfrom=MSDN
